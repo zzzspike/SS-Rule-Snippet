@@ -1,5 +1,6 @@
 #!name=AQI-US
 #!desc=修改自带天气空气质量为美国标准
+#!system=ios
 
 
 [Script]
